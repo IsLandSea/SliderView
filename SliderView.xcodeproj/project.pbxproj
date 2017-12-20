@@ -24,6 +24,7 @@
 		B0173A451FEA383200089861 /* FBShimmeringLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = B0173A431FEA383200089861 /* FBShimmeringLayer.m */; };
 		B0173A461FEA383200089861 /* FBShimmeringView.m in Sources */ = {isa = PBXBuildFile; fileRef = B0173A441FEA383200089861 /* FBShimmeringView.m */; };
 		B0173A491FEA3AE300089861 /* NSString+Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = B0173A481FEA3AE300089861 /* NSString+Utility.m */; };
+		B0173A501FEA465A00089861 /* Untitled.gif in Resources */ = {isa = PBXBuildFile; fileRef = B0173A4F1FEA465A00089861 /* Untitled.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,7 @@
 		B0173A441FEA383200089861 /* FBShimmeringView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FBShimmeringView.m; sourceTree = "<group>"; };
 		B0173A471FEA3AE300089861 /* NSString+Utility.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+Utility.h"; sourceTree = "<group>"; };
 		B0173A481FEA3AE300089861 /* NSString+Utility.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+Utility.m"; sourceTree = "<group>"; };
+		B0173A4F1FEA465A00089861 /* Untitled.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = Untitled.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,6 +197,7 @@
 		B0173A4C1FEA3CA400089861 /* Unity */ = {
 			isa = PBXGroup;
 			children = (
+				B0173A4F1FEA465A00089861 /* Untitled.gif */,
 				B0173A311FEA06C500089861 /* UIColor+Helo.h */,
 				B0173A321FEA06C500089861 /* UIColor+Helo.m */,
 				B0173A471FEA3AE300089861 /* NSString+Utility.h */,
@@ -310,6 +313,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0173A361FEA06F700089861 /* slider_done_icon@2x.png in Resources */,
+				B0173A501FEA465A00089861 /* Untitled.gif in Resources */,
 				B0173A011FEA05A200089861 /* LaunchScreen.storyboard in Resources */,
 				B0173A3B1FEA070600089861 /* slider_arrow_icon@3x.png in Resources */,
 				B01739FE1FEA05A200089861 /* Assets.xcassets in Resources */,
